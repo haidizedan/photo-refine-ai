@@ -87,8 +87,6 @@ photo-refine-ai/
 
 **Haidi Zedan**  
 AI Workflow Engineer & Prompt Architect  
-Part of submission for [GoMode](https://gomode.xyz) — Agentic AI
-
 
 ---
 
