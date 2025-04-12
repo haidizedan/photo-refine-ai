@@ -26,6 +26,7 @@ This project was developed as part of my experimentation in building **agentic A
 
 Each model runs as a separate agent with a standardized interface.  
 The backend handles orchestration, validation, and fallback logic — ensuring smooth output even if one model fails.
+![System Architecture](assets/architecture.png)
 
 ```mermaid
 graph TD;
