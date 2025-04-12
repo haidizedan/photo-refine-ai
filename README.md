@@ -1,5 +1,9 @@
 # PhotoRefine AI ✨🖼️
 
+![PhotoRefine AI Screenshot](assets/screenshot.png)
+
+*Simple and intuitive interface of PhotoRefine AI*
+
 **PhotoRefine AI** is an advanced, modular image restoration tool built using real AI models like **CodeFormer**, **Real-ESRGAN**, and **DnCNN**.  
 It’s designed to **restore**, **enhance**, and **transform** photos while preserving the original facial details, giving users both power and ease.
 
@@ -76,6 +80,15 @@ photo-refine-ai/
 - Real-ESRGAN
 - DnCNN
 - FaceXLib
+
+---
+
+## 👩‍💻 Created By
+
+**Haidi Zedan**  
+AI Workflow Engineer & Prompt Architect  
+Part of submission for [GoMode](https://gomode.xyz) — Agentic AI
+
 
 ---
 
